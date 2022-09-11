@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @dylanfeehan
 - 👀 I’m interested in building technology for the future!
-- 🌱 I’m currently learning mathematics and computer science.
+- 🌱 I’m currently studying mathematics and computer science at pitt
 - 📫 How to reach me - (607) 222-2443 - dylanfeehan981@gmail.com
 
 <!---
