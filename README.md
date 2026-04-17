@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @dylanfeehan
-- 💼 I Work as a Software Egineer at Dick's Sporting Goods
-- 📖 I studied computer science at pitt
+- 👋 hi, i’m @dylanfeehan
+- 💼 i work as a software engineer at DICK's, specifically their omnichannel fulfillment system
+- 📖 i studied computer science at the university of pittsburgh
 
 <!---
 dylanfeehan/dylanfeehan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
